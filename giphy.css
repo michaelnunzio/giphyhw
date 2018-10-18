@@ -37,4 +37,13 @@ color: white;
 
 .animal{
     color:white;
+    float: left;
+    
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin: 4px;
+
 }

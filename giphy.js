@@ -37,7 +37,7 @@
 
           // Appending the image
           animalDiv.append(image);
-
+              
           // Putting the entire animal above the previous animals
           $("#giphy-view").prepend(animalDiv);
                     }//forloop end
